@@ -2,10 +2,13 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { Toaster } from 'react-hot-toast'
 import { AuthProvider } from './context/AuthContext'
 import ProtectedRoute from './components/ProtectedRoute'
+import DashboardLayout from './components/layout/DashboardLayout'
 import Home from './components/Home'
 import Login from './components/Login'
 import Signup from './components/Signup'
 import Dashboard from './components/Dashboard'
+import AdvisorProfile from './components/AdvisorProfile'
+import ClientsPage from './components/ClientsPage'
 
 function App() {
   return (
@@ -41,15 +44,18 @@ function App() {
             <Route path="/login" element={<Login />} />
             <Route path="/signup" element={<Signup />} />
             
-            {/* Protected routes */}
-            <Route 
-              path="/dashboard" 
+            {/* Protected routes with layout */}
+            <Route
               element={
                 <ProtectedRoute>
-                  <Dashboard />
+                  <DashboardLayout />
                 </ProtectedRoute>
-              } 
-            />
+              }
+            >
+              <Route path="/dashboard" element={<Dashboard />} />
+              <Route path="/profile" element={<AdvisorProfile />} />
+              <Route path="/clients" element={<ClientsPage />} />
+            </Route>
             
             {/* Redirect any unknown routes to home */}
             <Route path="*" element={<Navigate to="/" replace />} />

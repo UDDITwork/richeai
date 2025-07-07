@@ -1,0 +1,171 @@
+2025-07-07 19:36:12 [INFO]: ==================================================
+2025-07-07 19:36:12 [INFO]: RICHIEAT Backend Server Starting...
+2025-07-07 19:36:12 [INFO]: Environment: development
+2025-07-07 19:36:12 [INFO]: Port: 5000
+2025-07-07 19:36:12 [INFO]: ==================================================
+2025-07-07 19:36:12 [INFO]: Attempting to connect to MongoDB...
+2025-07-07 19:36:12 [INFO]: 🚀 Server running on port 5000
+2025-07-07 19:36:12 [INFO]: 📊 Environment: development
+2025-07-07 19:36:12 [INFO]: 🔗 API Base URL: http://localhost:5000/api
+2025-07-07 19:36:12 [INFO]: Server startup complete ✅
+2025-07-07 19:36:13 [INFO]: Successfully connected to MongoDB
+2025-07-07 19:36:13 [INFO]: ✅ MongoDB connected successfully
+2025-07-07 19:37:06 [INFO]: OPTIONS /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:37:06 [INFO]: OPTIONS /api/auth/profile - 204 - 2ms
+2025-07-07 19:37:06 [INFO]: ::1 - OPTIONS /api/auth/profile HTTP/1.1 204 0 - 2.254 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:37:06 [INFO]: OPTIONS /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:37:06 [INFO]: OPTIONS /api/auth/profile - 204 - 0ms
+2025-07-07 19:37:06 [INFO]: ::1 - OPTIONS /api/auth/profile HTTP/1.1 204 0 - 0.619 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:37:13 [INFO]: OPTIONS /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:37:13 [INFO]: OPTIONS /api/auth/login - 204 - 1ms
+2025-07-07 19:37:13 [INFO]: ::1 - OPTIONS /api/auth/login HTTP/1.1 204 0 - 1.052 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:37:50 [INFO]: OPTIONS /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:37:50 [INFO]: OPTIONS /api/auth/login - 204 - 2ms
+2025-07-07 19:37:50 [INFO]: ::1 - OPTIONS /api/auth/login HTTP/1.1 204 0 - 2.858 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:37:58 [INFO]: OPTIONS /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:37:58 [INFO]: OPTIONS /api/auth/login - 204 - 1ms
+2025-07-07 19:37:58 [INFO]: ::1 - OPTIONS /api/auth/login HTTP/1.1 204 0 - 1.590 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:38:32 [INFO]: ==================================================
+2025-07-07 19:38:32 [INFO]: RICHIEAT Backend Server Starting...
+2025-07-07 19:38:32 [INFO]: Environment: development
+2025-07-07 19:38:32 [INFO]: Port: 5000
+2025-07-07 19:38:32 [INFO]: ==================================================
+2025-07-07 19:38:32 [INFO]: Attempting to connect to MongoDB...
+2025-07-07 19:38:32 [INFO]: 🚀 Server running on port 5000
+2025-07-07 19:38:32 [INFO]: 📊 Environment: development
+2025-07-07 19:38:32 [INFO]: 🔗 API Base URL: http://localhost:5000/api
+2025-07-07 19:38:32 [INFO]: Server startup complete ✅
+2025-07-07 19:38:33 [INFO]: Successfully connected to MongoDB
+2025-07-07 19:38:33 [INFO]: ✅ MongoDB connected successfully
+2025-07-07 19:38:49 [INFO]: Received SIGINT. Starting graceful shutdown...
+2025-07-07 19:38:51 [INFO]: ==================================================
+2025-07-07 19:38:51 [INFO]: RICHIEAT Backend Server Starting...
+2025-07-07 19:38:51 [INFO]: Environment: development
+2025-07-07 19:38:51 [INFO]: Port: 5000
+2025-07-07 19:38:51 [INFO]: ==================================================
+2025-07-07 19:38:51 [INFO]: Attempting to connect to MongoDB...
+2025-07-07 19:38:51 [INFO]: 🚀 Server running on port 5000
+2025-07-07 19:38:51 [INFO]: 📊 Environment: development
+2025-07-07 19:38:51 [INFO]: 🔗 API Base URL: http://localhost:5000/api
+2025-07-07 19:38:51 [INFO]: Server startup complete ✅
+2025-07-07 19:38:52 [INFO]: Successfully connected to MongoDB
+2025-07-07 19:38:52 [INFO]: ✅ MongoDB connected successfully
+2025-07-07 19:38:56 [INFO]: OPTIONS /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:38:56 [INFO]: OPTIONS /api/auth/login - 204 - 2ms
+2025-07-07 19:38:56 [INFO]: ::1 - OPTIONS /api/auth/login HTTP/1.1 204 0 - 2.396 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:38:56 [INFO]: POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:38:56 [INFO]: Login attempt for email: rohansaini2102@gmail.com from IP: ::1
+2025-07-07 19:38:56 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:38:56 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:38:57 [INFO]: Successful login for advisor: 686bc7a92d1b9882f7d4d560 (rohansaini2102@gmail.com) from IP: ::1
+2025-07-07 19:38:57 [INFO]: POST /api/auth/login - 200 - 719ms
+2025-07-07 19:38:57 [INFO]: ::1 - POST /api/auth/login HTTP/1.1 200 444 - 719.254 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:05 [INFO]: OPTIONS /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:05 [INFO]: OPTIONS /api/auth/profile - 204 - 1ms
+2025-07-07 19:39:05 [INFO]: ::1 - OPTIONS /api/auth/profile HTTP/1.1 204 0 - 0.702 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:05 [INFO]: PUT /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:05 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:39:05 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:39:05 [INFO]: Profile update request for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:39:05 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:39:05 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:39:05 [INFO]: DB Operation completed: Advisor.update for ID: 686bc7a92d1b9882f7d4d560 in 63ms
+2025-07-07 19:39:05 [INFO]: Profile updated for advisor: 686bc7a92d1b9882f7d4d560 - Fields: firmName, phoneNumber, sebiRegNumber, fpsbNumber, riaNumber, arnNumber, amfiRegNumber
+2025-07-07 19:39:05 [INFO]: Profile updated successfully for advisor: 686bc7a92d1b9882f7d4d560 - Updated fields: firmName, phoneNumber, sebiRegNumber, fpsbNumber, riaNumber, arnNumber, amfiRegNumber
+2025-07-07 19:39:05 [INFO]: PUT /api/auth/profile - 200 - 191ms - Advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:39:05 [INFO]: ::1 - PUT /api/auth/profile HTTP/1.1 200 402 - 191.043 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:05 [INFO]: GET /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:05 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:39:05 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:39:05 [INFO]: Profile fetch request for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:39:05 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:39:05 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:39:05 [INFO]: Profile fetch successful for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:39:05 [INFO]: GET /api/auth/profile - 200 - 116ms - Advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:39:05 [INFO]: ::1 - GET /api/auth/profile HTTP/1.1 200 400 - 116.525 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:25 [INFO]: OPTIONS /api/auth/logout - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:25 [INFO]: OPTIONS /api/auth/logout - 204 - 1ms
+2025-07-07 19:39:25 [INFO]: ::1 - OPTIONS /api/auth/logout HTTP/1.1 204 0 - 0.765 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:25 [INFO]: POST /api/auth/logout - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:25 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:39:25 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:39:25 [INFO]: Advisor logout: 686bc7a92d1b9882f7d4d560 from IP: ::1
+2025-07-07 19:39:25 [INFO]: Advisor logout: 686bc7a92d1b9882f7d4d560 from IP: ::1
+2025-07-07 19:39:25 [INFO]: POST /api/auth/logout - 200 - 61ms - Advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:39:25 [INFO]: ::1 - POST /api/auth/logout HTTP/1.1 200 46 - 60.748 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:49 [INFO]: OPTIONS /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:49 [INFO]: OPTIONS /api/auth/login - 204 - 1ms
+2025-07-07 19:39:49 [INFO]: ::1 - OPTIONS /api/auth/login HTTP/1.1 204 0 - 1.890 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:49 [INFO]: POST /api/auth/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:39:49 [INFO]: Login attempt for email: rohansaini2102@gmail.com from IP: ::1
+2025-07-07 19:39:49 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:39:49 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:39:49 [INFO]: Successful login for advisor: 686bc7a92d1b9882f7d4d560 (rohansaini2102@gmail.com) from IP: ::1
+2025-07-07 19:39:49 [INFO]: POST /api/auth/login - 200 - 487ms
+2025-07-07 19:39:49 [INFO]: ::1 - POST /api/auth/login HTTP/1.1 200 572 - 487.111 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:40:10 [INFO]: OPTIONS /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:40:10 [INFO]: OPTIONS /api/auth/profile - 204 - 1ms
+2025-07-07 19:40:10 [INFO]: ::1 - OPTIONS /api/auth/profile HTTP/1.1 204 0 - 1.311 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:40:10 [INFO]: PUT /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:40:10 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:40:10 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:40:10 [INFO]: Profile update request for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:40:10 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:40:10 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:40:10 [INFO]: DB Operation completed: Advisor.update for ID: 686bc7a92d1b9882f7d4d560 in 56ms
+2025-07-07 19:40:10 [INFO]: Profile updated for advisor: 686bc7a92d1b9882f7d4d560 - Fields: firmName
+2025-07-07 19:40:10 [INFO]: Profile updated successfully for advisor: 686bc7a92d1b9882f7d4d560 - Updated fields: firmName
+2025-07-07 19:40:10 [INFO]: PUT /api/auth/profile - 200 - 238ms - Advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:40:10 [INFO]: ::1 - PUT /api/auth/profile HTTP/1.1 200 409 - 237.872 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:40:10 [INFO]: GET /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:40:10 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:40:10 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:40:10 [INFO]: Profile fetch request for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:40:10 [ERROR]: Database operation failed - Advisor.find: undefined
+2025-07-07 19:40:10 [ERROR]: DB Operation failed: Advisor.find - undefined
+2025-07-07 19:40:10 [INFO]: Profile fetch successful for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:40:10 [INFO]: GET /api/auth/profile - 200 - 113ms - Advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:40:10 [INFO]: ::1 - GET /api/auth/profile HTTP/1.1 200 407 - 114.192 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:46:04 [INFO]: ==================================================
+2025-07-07 19:46:04 [INFO]: RICHIEAT Backend Server Starting...
+2025-07-07 19:46:04 [INFO]: Environment: development
+2025-07-07 19:46:04 [INFO]: Port: 5000
+2025-07-07 19:46:04 [INFO]: ==================================================
+2025-07-07 19:46:04 [INFO]: Attempting to connect to MongoDB...
+2025-07-07 19:46:05 [INFO]: 🚀 Server running on port 5000
+2025-07-07 19:46:05 [INFO]: 📊 Environment: development
+2025-07-07 19:46:05 [INFO]: 🔗 API Base URL: http://localhost:5000/api
+2025-07-07 19:46:05 [INFO]: Server startup complete ✅
+2025-07-07 19:46:06 [INFO]: Successfully connected to MongoDB
+2025-07-07 19:46:06 [INFO]: ✅ MongoDB connected successfully
+2025-07-07 19:46:53 [INFO]: OPTIONS /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:46:53 [INFO]: OPTIONS /api/auth/profile - 204 - 2ms
+2025-07-07 19:46:53 [INFO]: ::1 - OPTIONS /api/auth/profile HTTP/1.1 204 0 - 3.647 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:46:53 [INFO]: PUT /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:46:53 [INFO]: Profile update request for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:46:53 [INFO]: DB Operation completed: Advisor.update for ID: 686bc7a92d1b9882f7d4d560 in 129ms
+2025-07-07 19:46:53 [INFO]: Profile updated for advisor: 686bc7a92d1b9882f7d4d560 - Fields: revenueModel
+2025-07-07 19:46:53 [INFO]: Profile updated successfully for advisor: 686bc7a92d1b9882f7d4d560 - Updated fields: revenueModel
+2025-07-07 19:46:53 [INFO]: PUT /api/auth/profile - 200 - 281ms - Advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:46:53 [INFO]: ::1 - PUT /api/auth/profile HTTP/1.1 200 417 - 280.894 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:46:53 [INFO]: GET /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 19:46:53 [INFO]: Profile fetch request for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:46:53 [INFO]: Profile fetch successful for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:46:53 [INFO]: GET /api/auth/profile - 200 - 164ms - Advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 19:46:53 [INFO]: ::1 - GET /api/auth/profile HTTP/1.1 200 415 - 164.470 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 20:03:24 [INFO]: OPTIONS /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 20:03:24 [INFO]: OPTIONS /api/auth/profile - 204 - 9ms
+2025-07-07 20:03:24 [INFO]: ::1 - OPTIONS /api/auth/profile HTTP/1.1 204 0 - 10.639 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 20:03:24 [INFO]: OPTIONS /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 20:03:24 [INFO]: OPTIONS /api/auth/profile - 204 - 0ms
+2025-07-07 20:03:24 [INFO]: ::1 - OPTIONS /api/auth/profile HTTP/1.1 204 0 - 1.224 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 20:03:24 [INFO]: GET /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 20:03:24 [INFO]: Profile fetch request for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 20:03:24 [INFO]: Profile fetch successful for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 20:03:24 [INFO]: GET /api/auth/profile - 304 - 169ms - Advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 20:03:24 [INFO]: ::1 - GET /api/auth/profile HTTP/1.1 304 - - 170.214 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 20:03:24 [INFO]: GET /api/auth/profile - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+2025-07-07 20:03:24 [INFO]: Profile fetch request for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 20:03:24 [INFO]: Profile fetch successful for advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 20:03:24 [INFO]: GET /api/auth/profile - 304 - 231ms - Advisor: 686bc7a92d1b9882f7d4d560
+2025-07-07 20:03:24 [INFO]: ::1 - GET /api/auth/profile HTTP/1.1 304 - - 231.525 ms - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36

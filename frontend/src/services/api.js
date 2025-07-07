@@ -92,6 +92,16 @@ export const authAPI = {
       localStorage.removeItem('user');
       return { success: true };
     }
+  },
+
+  // Update profile
+  updateProfile: async (profileData) => {
+    try {
+      const response = await api.put('/auth/profile', profileData);
+      return response.data;
+    } catch (error) {
+      throw error.response?.data || error.message;
+    }
   }
 };
 
