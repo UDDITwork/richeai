@@ -9,6 +9,8 @@ import Signup from './components/Signup'
 import Dashboard from './components/Dashboard'
 import AdvisorProfile from './components/AdvisorProfile'
 import ClientsPage from './components/ClientsPage'
+import ClientOnboardingForm from './components/client/ClientOnboardingForm'
+import ClientDetailView from './components/client/ClientDetailView'
 
 function App() {
   return (
@@ -43,6 +45,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<Login />} />
             <Route path="/signup" element={<Signup />} />
+            <Route path="/client-onboarding/:token" element={<ClientOnboardingForm />} />
             
             {/* Protected routes with layout */}
             <Route
@@ -55,6 +58,7 @@ function App() {
               <Route path="/dashboard" element={<Dashboard />} />
               <Route path="/profile" element={<AdvisorProfile />} />
               <Route path="/clients" element={<ClientsPage />} />
+              <Route path="/clients/:clientId" element={<ClientDetailView />} />
             </Route>
             
             {/* Redirect any unknown routes to home */}

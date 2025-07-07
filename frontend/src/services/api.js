@@ -105,4 +105,103 @@ export const authAPI = {
   }
 };
 
+// Client API methods
+export const clientAPI = {
+  // Get all clients
+  getClients: async (params = {}) => {
+    try {
+      const response = await api.get('/clients/manage', { params });
+      return response.data;
+    } catch (error) {
+      throw error.response?.data || error.message;
+    }
+  },
+
+  // Get client by ID
+  getClientById: async (clientId) => {
+    try {
+      const response = await api.get(`/clients/manage/${clientId}`);
+      return response.data;
+    } catch (error) {
+      throw error.response?.data || error.message;
+    }
+  },
+
+  // Update client
+  updateClient: async (clientId, clientData) => {
+    try {
+      const response = await api.put(`/clients/manage/${clientId}`, clientData);
+      return response.data;
+    } catch (error) {
+      throw error.response?.data || error.message;
+    }
+  },
+
+  // Delete client
+  deleteClient: async (clientId) => {
+    try {
+      const response = await api.delete(`/clients/manage/${clientId}`);
+      return response.data;
+    } catch (error) {
+      throw error.response?.data || error.message;
+    }
+  },
+
+  // Send client invitation
+  sendInvitation: async (invitationData) => {
+    try {
+      const response = await api.post('/clients/manage/invitations', invitationData);
+      return response.data;
+    } catch (error) {
+      throw error.response?.data || error.message;
+    }
+  },
+
+  // Get client invitations
+  getInvitations: async (params = {}) => {
+    try {
+      const response = await api.get('/clients/manage/invitations', { params });
+      return response.data;
+    } catch (error) {
+      throw error.response?.data || error.message;
+    }
+  },
+
+  // Get client onboarding form (public)
+  getOnboardingForm: async (token) => {
+    try {
+      // Create a separate axios instance without auth for public routes
+      const publicApi = axios.create({
+        baseURL: API_BASE_URL,
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+      
+      const response = await publicApi.get(`/clients/onboarding/${token}`);
+      return response.data;
+    } catch (error) {
+      throw error.response?.data || error.message;
+    }
+  },
+
+  // Submit client onboarding form (public)
+  submitOnboardingForm: async (token, formData) => {
+    try {
+      // Create a separate axios instance without auth for public routes
+      const publicApi = axios.create({
+        baseURL: API_BASE_URL,
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+      
+      const response = await publicApi.post(`/clients/onboarding/${token}`, formData);
+      return response.data;
+    } catch (error) {
+      throw error.response?.data || error.message;
+    }
+  }
+};
+
 export default api;
